@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Smi1e96's github stats](https://github-readme-stats.vercel.app/api?username=Smi1e96&bg_color=313e47&show_icons=true&text_color=f8f8f8&icon_color=3C78cc&title_color=1CC284)](https://github.com/Smi1e96/github-readme-stats)
 <!--
 **Smi1e96/Smi1e96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
